@@ -5,7 +5,6 @@ Explore the latest updates, features, and more on the official site of the HDO B
 
 ## Latest HDO BOX APK Version
 ### ✅ APK Version 4.0.1 – Updated on: November 7, 2024
-Stay updated with the newest version of **HDO BOX** for **Android, iOS, and TV**. Download the APK today for a smooth and enjoyable streaming experience.
 
 <a href="https://github.com/fsmdeveloper/hdo.box/releases/download/v4.0.1/hdo_box_v4.0.1.apk">
   <img src="https://img.shields.io/badge/Download-v4.0.1-FBD0A5" alt="Download HDO BOX APK v4.0.1" width="180"/>
